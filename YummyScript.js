@@ -7,7 +7,7 @@
 // @match        https://yummytrackstat.com/your-bizzare-adventure
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=yummytrackstat.com
 // @grant        GM_xmlhttpRequest
-// @connect      192.168.0.131
+// @connect      your_lan_api
 // @connect      *
 // ==/UserScript==
 
