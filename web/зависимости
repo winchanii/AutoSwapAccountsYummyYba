@@ -1,0 +1,1 @@
+pip install requests flask flask-cors pygetwindow psutil
